@@ -19,4 +19,13 @@ This data is from Seattle, Washington, US as UK data is more diffcult to access 
 
 <h3>Outliers</h3>
 
-I plot each of the variables on a boxplot using the seaborn data visualisation library - showing outliers in the price plot. Prices above $1,500,00 are removed as they can skew the data
+Variables put on a boxplot using the seaborn data visualisation library - showing outliers in the price plot. Using the statistic formula to remove any data that is 1.5 * IQR either side of the whiskers. This is a standard practice here in context however if the data set was average height, 6'5"+ would be removed - but is the average height of an NBA player so take into account the context of the situation
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6ef3b8bc-abfd-45f2-b52b-8ac0d48feee5" />
+
+<p align="center">
+Price graph has now removed larger outliers - same will be done for each variable
+ 
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/9c566a3f-0835-4f05-9e2d-47db81ff4381" />
+
