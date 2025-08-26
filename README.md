@@ -2,7 +2,7 @@
 <h3>Basic Information</h3>
 A Linear regression machine learning model to estimate house prices based on variables such as square footage, number of bedrooms and bathrooms, and location. It will include data processing and analysis, model training, and effectiveness testing.
 
-There are 3 main objectives of this project:
+<h4>There are 3 main objectives of this project:</h4>
 * Identify variables that affect house prices in the set area
 * Create a linear model to effectively relate house prices with the identified variables in a quantitative formatting
 * Calculate the accuracy and effectiveness of the model
@@ -27,7 +27,7 @@ Price graph has now removed larger outliers - same will be done for each variabl
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/9c566a3f-0835-4f05-9e2d-47db81ff4381" />
 
-Done with each variable:
+Done with each variable to get data that fits into a usable data set for predictions
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/4b45a745-0b3a-4fc1-9c25-61455c326190" />
 
