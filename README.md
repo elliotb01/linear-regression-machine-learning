@@ -9,9 +9,7 @@ There are 3 main objectives of this project:
 
 <h2>Data Processing</h2>
 
-Data taken from: https://gist.github.com/guilhermesilveira/eb03c2f0d0fc52d4df2528b330f50914
-
-This data is from Seattle, Washington, US as UK data is more diffcult to access however the project can be applied to the correct data
+This data is from Seattle, Washington, US (sources at bottom), as UK data is more diffcult to access however the project can be applied to the UK data as long as the variables and data are valid
 
 <h3>Null Value Check</h3>
 
