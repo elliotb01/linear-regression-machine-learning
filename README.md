@@ -8,3 +8,7 @@ There are 3 main objectives of this project:
 * Calculate the accuracy and effectiveness of the model
 
 <h2>Data Reading, Cleaning and Understanding</h2>
+
+Data taken from: https://gist.github.com/guilhermesilveira/eb03c2f0d0fc52d4df2528b330f50914
+
+This data is from Seattle, Washington, US as UK data is more diffcult to access however the project can be applied to the correct data
