@@ -31,4 +31,35 @@ Done with each variable:
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/4b45a745-0b3a-4fc1-9c25-61455c326190" />
 
+<h2>Training Model</h2>
 
+The data is normalised and assigned to y and x training values to be applied to a Linear Regression
+
+RFE is used to eliminate features from the dataset for selection
+
+<h2>Statistics Model</h2>
+
+Error terms graph with a scatter graph to represent the training - then evaluation of the model
+<p align="center">
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/4943aa07-0c19-4278-91f7-c51c2ba4e3b5" /><img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/8940553a-6db9-48f7-9867-167bf153fa9a" />
+
+<h2>Prediction</h2>
+
+Prediction results with 0.5445 or 54.45% effectiveness
+<p align="center">
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/05200edd-9173-48e1-82a9-d8084447a00f" />
+
+<h2>Final Thoughts</h2>
+
+This project has been out of my comfort zone for coding and has been difficult to get my head around. Dealing with new in coding such as Recursive Feature Elimination has been challenging but rewarding aswell.
+
+Sources I used for this project:
+
+Housing data:
+
+https://gist.github.com/guilhermesilveira/eb03c2f0d0fc52d4df2528b330f50914
+
+Articles:
+
+https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/
+https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/notebook#Data-Cleaning
