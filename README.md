@@ -51,7 +51,9 @@ Prediction results with 0.5445 or 54.45% effectiveness
 
 <h2>Final Thoughts</h2>
 
-This project has been out of my comfort zone for coding and has been difficult to get my head around. Dealing with new in coding such as Recursive Feature Elimination has been challenging but rewarding aswell.
+This project is the first 'Machine Learning' project I have undertaken, I found it challenging yet rewarding, using and undestanding new frameworks such as RFE was difficult but my knowledge has definitely improved through this project.
+
+Although I wanted a higher effectiveness it is about expected with this data set as it is the entire of Seattle which has a lot of variation so having a prediction higher than 60-70% would be unexpected.
 
 Sources I used for this project:
 
