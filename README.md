@@ -2,6 +2,8 @@
 <h3>Basic Information</h3>
 A Linear regression machine learning model to estimate house prices based on variables such as square footage, number of bedrooms and bathrooms, and location. It will include data processing and analysis, model training, and effectiveness testing.
 
+To use this project, open the ipynb file, download and drag the house_data.csv into the files on Google Colab, from there run each code cell in order to use project.
+
 <h4>There are 3 main objectives of this project:</h4>
 * Identify variables that affect house prices in the set area
 * Create a linear model to effectively relate house prices with the identified variables in a quantitative formatting
